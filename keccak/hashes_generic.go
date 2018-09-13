@@ -4,7 +4,7 @@
 
 //+build gccgo appengine !s390x
 
-package sha3
+package keccak
 
 import (
 	"hash"
