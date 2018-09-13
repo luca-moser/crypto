@@ -4,7 +4,7 @@
 
 //+build gccgo appengine !s390x
 
-package keccak
+package sha3
 
 // newShake128Asm returns an assembly implementation of SHAKE-128 if available,
 // otherwise it returns nil.

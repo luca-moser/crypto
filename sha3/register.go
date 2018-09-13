@@ -4,7 +4,7 @@
 
 // +build go1.4
 
-package keccak
+package sha3
 
 import (
 	"crypto"

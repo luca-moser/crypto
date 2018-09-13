@@ -4,7 +4,7 @@
 
 //+build !gccgo,!appengine
 
-package keccak
+package sha3
 
 // This file contains code for using the 'compute intermediate
 // message digest' (KIMD) and 'compute last message digest' (KLMD)

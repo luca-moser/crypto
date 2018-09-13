@@ -4,7 +4,7 @@
 
 // +build !amd64,!386,!ppc64le appengine
 
-package keccak
+package sha3
 
 var (
 	xorIn            = xorInGeneric
